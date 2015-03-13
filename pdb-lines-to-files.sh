@@ -1,5 +1,5 @@
 #!/bin/bash
-# By Jamie Al-Nasir, 18/01/2014
+# By Jamie Alnasir, 18/01/2014
 # Dept. of Computer Science, Royal Holloway University
 #
 # A script to convert a multi-line file of single-line, ^| delimited PDB

@@ -1,5 +1,5 @@
 #!/bin/bash
-# By Jamie Al-Nasir, 18/01/2014
+# By Jamie Alnasir, 18/01/2014
 # Dept. of Computer Science, Royal Holloway University
 #
 # A script to convert a Brookhaven PDB (Protein Databank file) ATOM records into a single
